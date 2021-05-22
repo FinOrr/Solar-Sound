@@ -9,10 +9,10 @@ The bluetooth speaker features volume, power and track control buttons, a TI amp
 Included are all design files in Altium and EasyEDA formats, as well as Gerber and Pick-and-Place files- plus some nice images too.
 
 ## 3D PCB Render
-![3D Render]()
+![3D Render](https://github.com/FinOrr/Solar-Sound/blob/master/Images/PCB-Render.PNG)
 
 ## Circuit Schematic
-![Schematic]()
+![Schematic](https://github.com/FinOrr/Solar-Sound/blob/master/Images/Schematic.png)
 
 ## PCB Schematic
-![PCB]()
+![PCB](https://github.com/FinOrr/Solar-Sound/blob/master/Images/PCB-Schematic.PNG)
